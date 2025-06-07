@@ -24,7 +24,7 @@
 == 2. Контроллер прерываний NVIC
 
 === Основные функции NVIC
-Nested Vectored Interrupt Controller (NVIC) - это:
+Nested Vectored Interrupt Controller(NVIC) - это:
 * Управление приоритетами прерываний
 * Возможность вложенных прерываний
 * Автоматическое определение вектора прерывания
