@@ -1,12 +1,6 @@
 == Отчет по теме: "Типы данных, указатели и битовые операции"
 :author: Нигматзянов К.М.
 :group: ЕТ-211
-:toc:
-:numbered:
-:sectnums:
-:source-highlighter: coderay
-:icons: font
-
 == Титульный лист
 
 [.title]

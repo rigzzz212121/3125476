@@ -1,12 +1,6 @@
 == Отчет по теме: "Основы операционных систем реального времени"
 :author: Нигматзянов К.М.
 :group: ЕТ-211
-:toc:
-:numbered:
-:sectnums:
-:source-highlighter: coderay
-:icons: font
-
 == Титульный лист
 
 [.title]
